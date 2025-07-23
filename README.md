@@ -77,20 +77,26 @@ streamlit run app.py
 ## 📸 Screenshots
 
 ### 🔍 Chat Interface and Results
+<img width="1919" height="833" alt="image" src="https://github.com/user-attachments/assets/a6f57a28-aeb8-49ad-9a0a-58a00462b457" />
 
-![Chat Screenshot 1](https://github.com/user-attachments/assets/d1d2771e-cf24-4fd6-a94d-e79fba5a91ca)
-![Chat Screenshot 2](https://github.com/user-attachments/assets/7afde840-790b-4457-baeb-690f5bb6779f)
-![Chat Screenshot 3](https://github.com/user-attachments/assets/dfa4d40b-d51d-46e3-9d9d-d273540e19ae)
+<img width="1919" height="832" alt="image" src="https://github.com/user-attachments/assets/b9038a27-a587-45db-a9fd-ff2d89b087c3" />
+
+<img width="1919" height="826" alt="image" src="https://github.com/user-attachments/assets/f1082449-1f7d-48ab-bf92-b20005bfcf9b" />
+
+<img width="1919" height="834" alt="image" src="https://github.com/user-attachments/assets/7613f132-3a74-42ad-b1d6-68172726ecf3" />
+
 
 ### 📊 Visualizations
 
-![Graph Screenshot 1](https://github.com/user-attachments/assets/9cbb0787-8320-45a7-a544-31d75493daa8)
-![Graph Screenshot 2](https://github.com/user-attachments/assets/293f6388-5212-4a78-accc-881d7ad2454e)
-![Graph Screenshot 3](https://github.com/user-attachments/assets/c5f94912-a8a3-4fa4-9ed4-e3c8cf5a60c5)
+<img width="1919" height="832" alt="image" src="https://github.com/user-attachments/assets/de9a84c7-a00c-4954-bb6e-aff58d7a30ff" />
 
-### 🛠️ Features in Action
+<img width="1919" height="822" alt="image" src="https://github.com/user-attachments/assets/d9402ae1-8396-4a3f-b4d3-dd9d19d9a87a" />
 
-![Feature Screenshot 1](https://github.com/user-attachments/assets/8640671e-e53d-43db-b52b-c3b57cd8c1f5)
-![Feature Screenshot 2](https://github.com/user-attachments/assets/99105552-deff-4878-b11d-35e2dba9c641)
-![Feature Screenshot 3](https://github.com/user-attachments/assets/91ce15c1-fc56-4d3c-8b91-4f9b1ac68a23)
+<img width="1919" height="829" alt="image" src="https://github.com/user-attachments/assets/87751f90-72a7-4403-997e-be22dceec16d" />
+
+<img width="1914" height="833" alt="image" src="https://github.com/user-attachments/assets/1e565bd9-e44c-4553-8575-42d8d3a45e04" />
+
+
+
+
 
