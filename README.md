@@ -4,14 +4,16 @@ This project is a sophisticated AI-powered chatbot built with Streamlit that all
 **Key Features Natural Language to SQL:**
 Leverages Google's Gemini 2.0 Flash model to understand user questions and convert them into precise SQLite queries. _Dynamic Visualizations: _Automatically generates interactive bar charts, pie charts, and time-series graphs based on the query results, providing instant visual insights. Raw API Request Logging: For technical demonstrations, the application can print the raw JSON payload and headers of the API call to the terminal. Streaming Responses: Simulates a real-time conversation by streaming the AI's text-based answers. Customizable UI: Features a sleek, modern user interface with a dark theme, which can be easily customized using CSS within the Streamlit application. Error Handling: Includes robust error handling for database connection issues, invalid SQL queries, and API call failures.
 
-**Tech Stack**
-**Frontend:** Streamlit 
-**Backend:** Python
-**Database:** SQLite
-**AI Model:** Google Gemini 2.0 Flash
-**Data Manipulation**: Pandas 
-**Visualizations:** Plotly Express 
-**API Requests:** requests library
+| Category         | Technology               |
+|------------------|---------------------------|
+| **Frontend**     | Streamlit                |
+| **Backend**      | Python                   |
+| **Database**     | SQLite                   |
+| **AI Model**     | Google Gemini 2.0 Flash  |
+| **Data Handling**| Pandas                   |
+| **Visualizations**| Plotly Express          |
+| **API Requests** | `requests` library       |
+
 
 **How It Works User Input:** The user asks a question in the chat interface (e.g., "What were the top 5 products by total sales?").
 **NL to SQL:** The application sends the question, along with the database schema and specific instructions, to the Gemini API.
@@ -44,4 +46,7 @@ streamlit run app.py
 
 <img width="1918" height="814" alt="image" src="https://github.com/user-attachments/assets/c5f94912-a8a3-4fa4-9ed4-e3c8cf5a60c5" />
 <img width="1919" height="819" alt="image" src="https://github.com/user-attachments/assets/8640671e-e53d-43db-b52b-c3b57cd8c1f5" />
+
+<img width="1919" height="823" alt="image" src="https://github.com/user-attachments/assets/99105552-deff-4878-b11d-35e2dba9c641" />
+<img width="1917" height="817" alt="image" src="https://github.com/user-attachments/assets/91ce15c1-fc56-4d3c-8b91-4f9b1ac68a23" />
 
