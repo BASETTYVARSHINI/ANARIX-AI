@@ -59,7 +59,7 @@ Users can ask questions in plain English, and the app converts them into SQL que
 ## 🔧 Setup Instructions
 
 ### 1. Install Dependencies
-```bash
+
 pip install -r requirements.txt
 2. Set Up the Database
 Place your SQLite database file in the project root and name it:
@@ -72,7 +72,6 @@ GEMINI_API_KEY="YOUR_API_KEY_HERE"
 
 4. Run the Application
 streamlit run app.py
-
 
 ## 📸 Screenshots
 
