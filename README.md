@@ -31,3 +31,15 @@ Create a file named .env in the root directory. Add your Google Gemini API key t
 
 **Run the application:**
 streamlit run app.py
+
+
+<img width="1919" height="822" alt="image" src="https://github.com/user-attachments/assets/d1d2771e-cf24-4fd6-a94d-e79fba5a91ca" />
+
+<img width="1919" height="833" alt="image" src="https://github.com/user-attachments/assets/7afde840-790b-4457-baeb-690f5bb6779f" />
+
+<img width="1919" height="835" alt="image" src="https://github.com/user-attachments/assets/dfa4d40b-d51d-46e3-9d9d-d273540e19ae" />
+
+<img width="1879" height="765" alt="image" src="https://github.com/user-attachments/assets/9cbb0787-8320-45a7-a544-31d75493daa8" />
+<img width="1909" height="834" alt="image" src="https://github.com/user-attachments/assets/293f6388-5212-4a78-accc-881d7ad2454e" />
+
+
