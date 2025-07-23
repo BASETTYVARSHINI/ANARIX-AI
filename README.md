@@ -59,38 +59,38 @@ Users can ask questions in plain English, and the app converts them into SQL que
 ## 🔧 Setup Instructions
 
 ### 1. Install Dependencies
-
 ```bash
 pip install -r requirements.txt
 2. Set Up the Database
 Place your SQLite database file in the project root and name it:
-
-
 sales.db
+
 3. Configure Environment Variables
 Create a .env file in the root directory and add your Gemini API key:
-
 ini
-
 GEMINI_API_KEY="YOUR_API_KEY_HERE"
-4. Run the Application
-bash
 
+4. Run the Application
 streamlit run app.py
 
 
-<img width="1919" height="822" alt="image" src="https://github.com/user-attachments/assets/d1d2771e-cf24-4fd6-a94d-e79fba5a91ca" />
+## 📸 Screenshots
 
-<img width="1919" height="833" alt="image" src="https://github.com/user-attachments/assets/7afde840-790b-4457-baeb-690f5bb6779f" />
+### 🔍 Chat Interface and Results
 
-<img width="1919" height="835" alt="image" src="https://github.com/user-attachments/assets/dfa4d40b-d51d-46e3-9d9d-d273540e19ae" />
+![Chat Screenshot 1](https://github.com/user-attachments/assets/d1d2771e-cf24-4fd6-a94d-e79fba5a91ca)
+![Chat Screenshot 2](https://github.com/user-attachments/assets/7afde840-790b-4457-baeb-690f5bb6779f)
+![Chat Screenshot 3](https://github.com/user-attachments/assets/dfa4d40b-d51d-46e3-9d9d-d273540e19ae)
 
-<img width="1879" height="765" alt="image" src="https://github.com/user-attachments/assets/9cbb0787-8320-45a7-a544-31d75493daa8" />
-<img width="1909" height="834" alt="image" src="https://github.com/user-attachments/assets/293f6388-5212-4a78-accc-881d7ad2454e" />
+### 📊 Visualizations
 
-<img width="1918" height="814" alt="image" src="https://github.com/user-attachments/assets/c5f94912-a8a3-4fa4-9ed4-e3c8cf5a60c5" />
-<img width="1919" height="819" alt="image" src="https://github.com/user-attachments/assets/8640671e-e53d-43db-b52b-c3b57cd8c1f5" />
+![Graph Screenshot 1](https://github.com/user-attachments/assets/9cbb0787-8320-45a7-a544-31d75493daa8)
+![Graph Screenshot 2](https://github.com/user-attachments/assets/293f6388-5212-4a78-accc-881d7ad2454e)
+![Graph Screenshot 3](https://github.com/user-attachments/assets/c5f94912-a8a3-4fa4-9ed4-e3c8cf5a60c5)
 
-<img width="1919" height="823" alt="image" src="https://github.com/user-attachments/assets/99105552-deff-4878-b11d-35e2dba9c641" />
-<img width="1917" height="817" alt="image" src="https://github.com/user-attachments/assets/91ce15c1-fc56-4d3c-8b91-4f9b1ac68a23" />
+### 🛠️ Features in Action
+
+![Feature Screenshot 1](https://github.com/user-attachments/assets/8640671e-e53d-43db-b52b-c3b57cd8c1f5)
+![Feature Screenshot 2](https://github.com/user-attachments/assets/99105552-deff-4878-b11d-35e2dba9c641)
+![Feature Screenshot 3](https://github.com/user-attachments/assets/91ce15c1-fc56-4d3c-8b91-4f9b1ac68a23)
 
