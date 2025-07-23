@@ -60,18 +60,31 @@ Users can ask questions in plain English, and the app converts them into SQL que
 
 ### 1. Install Dependencies
 
+Ensure you have Python installed. Then, install the required packages using:
+
+```bash
 pip install -r requirements.txt
 2. Set Up the Database
-Place your SQLite database file in the project root and name it:
-sales.db
+Place your SQLite database file in the root directory of the project and name it:
 
+Copy
+Edit
+sales.db
 3. Configure Environment Variables
 Create a .env file in the root directory and add your Gemini API key:
-ini
-GEMINI_API_KEY="YOUR_API_KEY_HERE"
 
+ini
+Copy
+Edit
+GEMINI_API_KEY="YOUR_API_KEY_HERE"
 4. Run the Application
+Start the Streamlit app using the following command:
+
+bash
+Copy
+Edit
 streamlit run app.py
+```
 
 ## 📸 Screenshots
 
